@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-inbox-triage-communication-shield-skill"
+version = "1.0.0"
+description = "Cross-channel inbox triage and communication shield filtering unread floods into batched digests and VIP alerts"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
